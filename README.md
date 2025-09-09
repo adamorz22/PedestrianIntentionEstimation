@@ -47,5 +47,5 @@ JAAD_dataset/
 
 <p align="center">
   <img src="pics/trainval.PNG" alt="Fragment chart for 3-MaleGlasses with frames" width="100%"><br>
-  <em>: Training and validation loss and accuracy across epochs (6th epoch selected by early stopping)</em>
+  <em>Training and validation loss and accuracy across epochs (6th epoch selected by early stopping)</em>
 </p>
