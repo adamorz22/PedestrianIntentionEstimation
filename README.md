@@ -49,3 +49,10 @@ JAAD_dataset/
   <img src="pics/trainval.PNG" alt="Fragment chart for 3-MaleGlasses with frames" width="100%"><br>
   <em>Training and validation loss and accuracy across epochs (6th epoch selected by early stopping)</em>
 </p>
+
+
+## Resources
+
+- **JAAD Dataset:** https://data.nvision2.eecs.yorku.ca/JAAD_dataset/
+- **JAAD Annotations:** https://github.com/ykotseruba/JAAD
+- **Sequence-based baseline (original inspiration):** https://github.com/GianmarcoDonnesi/PedestrianCrossingPrediction-for-Enhanced-Autonomous-Driving-Safety
